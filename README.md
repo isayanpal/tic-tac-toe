@@ -1,12 +1,12 @@
 # Tic-tac-toe
 live-link - https://isayanpal.github.io/tic-tac-toe/
-
-##Techstack Used-
+  
+## Techstack Used-
 - HTML5
 - CSS
 - JAVASCRIPT
 
-##Code-editor:
+## Code-editor:
 - VsCode
 
 <h1 align="center">Screenshot👇</h1>
